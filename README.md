@@ -1,2 +1,2 @@
 # ocr-for-handwritten-digits
-This is first deep learning project
+Developing a CNN model with already available dataset in Keras DL library.
